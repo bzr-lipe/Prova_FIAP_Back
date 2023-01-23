@@ -9,7 +9,7 @@
 <p class="btn-cadastro-container">
     <a asp-action="Create" class="btn-cadastro-lista">Cadastrar Novo Funcionário</a>
 </p>
-<table class="table">
+<table class="table table-funcionarios" id="table-func">
     <thead>
         <tr>
             <th>
@@ -37,9 +37,9 @@
                 @Html.DisplayFor(modelItem => item.Cargo)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn-action-list">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn-action-list">Detalhes</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn-action-list btn-delete">Deletar</a>
             </td>
         </tr>
 }
