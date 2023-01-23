@@ -1,0 +1,114 @@
+@font-face {
+    font-family: 'Gotham HTF Medium';
+    src: url("/fonts/GothamHTF-Medium.otf")
+}
+
+@font-face {
+    font-family: 'Gotham HTF Bold';
+    src: url("/fonts/GothamHTF-Bold.otf");
+}
+
+@font-face {
+    font-family: 'Gotham HTF Book';
+    src: url("/fonts/GothamHTF-Book.otf");
+}
+
+:root {
+    --white: #FFFFFF;
+    --light-gray: #91A3AD;
+    --magenta: #ED145B;
+    --black: #000000;
+    --gray: #616D72;
+    --dark-gray: #32383B;
+    --header-gray: #151819;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+    font-size: 14px;
+}
+
+body {
+    font-size: 14px;
+    background-color: var(--black);
+}
+
+.text-center {
+    width: 100%;
+    height: calc(100vh - 138px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.navbar-nav {
+    justify-content: flex-end;
+}
+
+header {
+    background-color: var(--dark-gray)!important;
+    padding: 5px 30px;
+}
+
+.nav-item {
+}
+
+.nav-link {
+    font-family: 'Gotham HTF Bold';
+    text-transform: uppercase;
+    color: var(--magenta)!important;
+}
+
+.cadastro-heroes {
+    font-family: 'Gotham HTF Medium';
+    text-transform: uppercase;
+    height: fit-content;
+    color: var(--light-gray);
+}
+
+.cadastro-heroes-title {
+    font-size: 60px;
+}
+
+.btn-cadastro {
+    margin-top: 100px;
+}
+
+.btn-cadastro-link {
+    padding: 10px 30px;
+    color: var(--magenta);
+    border: 3px solid var(--magenta);
+    text-decoration: none;
+    font-family: 'Gotham HTF Bold';
+    text-transform: uppercase;
+    transition: .3s;
+}
+
+.btn-cadastro-link:hover {
+    color: var(--black);
+    background-color: var(--magenta);
+}
+
+.form-creation label {
+    color: var(--magenta);
+    font-family: 'Gotham HTF Book';
+    text-transform: uppercase;
+    margin: 10px 0;
+}
+
+.create-title {
+    text-transform: uppercase;
+    font-family: 'Gotham HTF Medium';
+    color: var(--magenta);
+    font-size: 40px;
+    margin-top: 30px;
+}
+
+#btn-create{
+    width: 40px;
+}
