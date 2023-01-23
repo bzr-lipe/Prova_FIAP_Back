@@ -109,6 +109,49 @@ header {
     margin-top: 30px;
 }
 
-#btn-create{
-    width: 40px;
+.btn-create {
+    color: var(--magenta);
+    font-family: 'Gotham HTF Book';
+    text-transform: uppercase;
+    margin: 10px 0;
+    padding: 10px 30px;
+    border: 1px solid var(--magenta);
+    margin-top: 20px;
+    background-color: transparent;
+    transition: .3s;
+}
+
+.btn-create:hover {
+    background-color: var(--magenta);
+    color: var(--black);
+}
+
+.lista-title {
+    margin-top: 20px;
+    font-family: 'Gotham HTF Medium';
+    color: var(--light-gray);
+    text-transform: uppercase;
+    font-size: 50px;
+}
+
+.btn-cadastro-lista {
+ 
+    padding: 10px 20px;
+    color: var(--magenta);
+    text-decoration: none;
+    font-family: 'Gotham HTF Book';
+    text-transform: uppercase;
+    margin: 10px 0;
+    border: 1px solid var(--magenta);
+    background-color: transparent;
+    transition: .3s;
+}
+
+.btn-cadastro-container {
+    margin-top: 30px;
+}
+
+.btn-cadastro:hover {
+    background-color: var(--magenta);
+    color: var(--black);
 }
