@@ -149,6 +149,7 @@ header {
 
 .btn-cadastro-container {
     margin-top: 30px;
+    margin-bottom: 40px;
 }
 
 .btn-cadastro-lista:hover {
@@ -181,10 +182,6 @@ header {
 }
 #table-func_filter input {
     color:var(--light-gray)!important;
-}
-
-#table-func_filter label {
-    content: "teste"!important;
 }
 
 #table-func_length {
