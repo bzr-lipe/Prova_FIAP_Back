@@ -169,7 +169,11 @@ header {
     color: var(--magenta);
     border-radius: 10px;
     border: 1px solid var(--magenta);
-    text-decoration
+    text-decoration: none;
+}
+
+.btn-action-list:hover {
+   color: var(--magenta);
 }
 
 .btn-delete {
@@ -177,8 +181,12 @@ header {
     color: var(--black);
 }
 
+.btn-delete:hover {
+    color: var(--black)!important;
+}
+
 #table-func_filter {
-    color: var(--light-gray)!important;
+    color: var(--light-gray) !important;
 }
 #table-func_filter input {
     color:var(--light-gray)!important;
@@ -207,4 +215,33 @@ option {
 #table-func_paginate span a {
     color: var(--light-gray)!important;
     border-color: var(--light-gray)!important;
+}
+
+.control-label{
+    color: var(--light-gray);
+    margin-top:30px;
+    margin-bottom: 10px;
+}
+
+.form-group btn {
+    background-blend-mode: var(--magenta)!important;
+}
+
+.back-list {
+    font-family: 'Gotham HTF Book';
+    color: var(--magenta);
+    text-decoration: none;
+    text-transform: uppercase;
+    
+}
+
+#btn-salvar-edit{
+    margin: 30px 0!important;
+    background-color: var(--magenta)!important;
+    border: none!important;
+}
+
+.infos-func{
+    color: var(--light-gray);
+    font-family: 'Gotham HTF Book';
 }

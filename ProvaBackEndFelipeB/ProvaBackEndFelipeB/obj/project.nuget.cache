@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h+eq1A4odmxWfkFcOp7p5Wyi2Er3abOB/BZK0BRv0Dzou1kjs3KFxZJolzsq0luu2CAhxdtacKaSpGWHnRlRBw==",
+  "dgSpecHash": "5jiqxThhtQIRuwCHuKoVuulyQjtSEpo9ScqUu4WLLJUEBchxuxtx1uIcqPN6aJPiqr/Bva+xHZnDEz6VWsiDOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Felipe\\Desktop\\prova back\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB.csproj",
+  "projectFilePath": "C:\\Users\\Felipe\\Source\\Repos\\bzr-lipe\\Prova_FIAP_Back\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Felipe\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Felipe\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

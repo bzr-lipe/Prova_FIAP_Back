@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felipe\\Desktop\\prova back\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB.csproj": {}
+    "C:\\Users\\Felipe\\Source\\Repos\\bzr-lipe\\Prova_FIAP_Back\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felipe\\Desktop\\prova back\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB.csproj": {
+    "C:\\Users\\Felipe\\Source\\Repos\\bzr-lipe\\Prova_FIAP_Back\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felipe\\Desktop\\prova back\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB.csproj",
+        "projectUniqueName": "C:\\Users\\Felipe\\Source\\Repos\\bzr-lipe\\Prova_FIAP_Back\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB.csproj",
         "projectName": "ProvaBackEndFelipeB",
-        "projectPath": "C:\\Users\\Felipe\\Desktop\\prova back\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB.csproj",
+        "projectPath": "C:\\Users\\Felipe\\Source\\Repos\\bzr-lipe\\Prova_FIAP_Back\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB.csproj",
         "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felipe\\Desktop\\prova back\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB\\obj\\",
+        "outputPath": "C:\\Users\\Felipe\\Source\\Repos\\bzr-lipe\\Prova_FIAP_Back\\ProvaBackEndFelipeB\\ProvaBackEndFelipeB\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

@@ -36,9 +36,8 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Cargo)
             </td>
-            <td>
-                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn-action-list">Editar</a> |
-                    <a asp-action="Details" asp-route-id="@item.Id" class="btn-action-list">Detalhes</a> |
+            <td class="options-list">
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn-action-list">Editar</a> 
                 <a asp-action="Delete" asp-route-id="@item.Id" class="btn-action-list btn-delete">Deletar</a>
             </td>
         </tr>
