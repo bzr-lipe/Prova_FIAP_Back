@@ -1,8 +1,7 @@
 # Prova_FIAP_Back
 
 
-- [Vídeo Youtube Apresentando](https://youtu.be/VtYNPuPAtQg)
-- [Tutorial, como linkar local db](https://youtu.be/qB5WqPtYqrU)
+- [Vídeo Youtube Apresentando/Tutorial](https://youtu.be/sMIoLG9MhSA)
 
 1º Passo: Criar/conectar com DB Local  
 
